@@ -7,7 +7,7 @@
  * Fall 2014 Semester
  * Project 1
  */
-// Hello Me
+
 #include "client.h"
 
 /* The file descriptor for the socket connected to the server. */
